@@ -49,3 +49,24 @@ This repository contains my Python assignment submitted as part of my coursework
 
 ## 📁 File Structure
 
+---
+
+## ⚡️ Technologies Used
+
+- Python 3.x
+- Google Colab
+- GitHub
+
+---
+
+## 💬 How to Use
+
+1. Download or clone the repository.
+2. Open `python_assignment.ipynb` in **Google Colab** or **Jupyter Notebook**.
+3. Review both the theory notes and practical solutions.
+
+---
+
+
+✅ If you found this helpful, feel free to ⭐️ star the repo!
+
