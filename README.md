@@ -1,4 +1,4 @@
-# python-assignmen
+# python-assignment
 
 # 🐍 Python Theory & Practical Assignment
 
